@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LevelScripts\Spawning.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerScripts\Movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AbilityScripts\FireBall.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelScripts\CollectorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FloraScripts\GrowFloraScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelScripts\Spawning.cs" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\FloraScripts\SeedScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FloraScripts\AngelFruitScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\Bar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelScripts\WorldStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\PlayButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\ExitButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\BackButton.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
